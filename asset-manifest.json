@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hamzatek/static/css/main.33926187.css",
-    "main.js": "/hamzatek/static/js/main.ceae8cca.js",
+    "main.js": "/hamzatek/static/js/main.e24c950a.js",
     "static/js/453.8ab44547.chunk.js": "/hamzatek/static/js/453.8ab44547.chunk.js",
     "index.html": "/hamzatek/index.html",
     "main.33926187.css.map": "/hamzatek/static/css/main.33926187.css.map",
-    "main.ceae8cca.js.map": "/hamzatek/static/js/main.ceae8cca.js.map",
+    "main.e24c950a.js.map": "/hamzatek/static/js/main.e24c950a.js.map",
     "453.8ab44547.chunk.js.map": "/hamzatek/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33926187.css",
-    "static/js/main.ceae8cca.js"
+    "static/js/main.e24c950a.js"
   ]
 }
