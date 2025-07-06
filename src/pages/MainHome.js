@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import TermsModal from "../components/TermsModal";
 import { Helmet } from "react-helmet";
 
-function Home() {
+function MainHome() {
   const [showModal, setShowModal] = useState(false);
 
   useEffect(() => {
@@ -125,4 +125,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default MainHome;
